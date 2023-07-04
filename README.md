@@ -1,4 +1,4 @@
-# FortniteLoader
+# FortniteLoaderV2
 
 Join my discord for the driver https://discord.gg/7pPq5HWuvc External* Using Vulkan download -> https://www.vulkan.org/ acutally undetected BE / EAC ;)
 
